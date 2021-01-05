@@ -1,6 +1,7 @@
 /*
  * Title：lab3.java
  * Created by 栗子 at  01/06/2021 01:28:28
+ * Github：https://github.com/jordanpep/DB2-JLU
  */
 import java.sql.*;
 import java.io.*;
